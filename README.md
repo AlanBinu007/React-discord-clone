@@ -23,6 +23,9 @@
 
 ## Steps to run in your machine
 
+#### RMake the changes
+First go to https://console.firebase.google.com/ and create a project and copy your app config to firebase.js
+
 #### Run the following commands
 ```
 npm i
